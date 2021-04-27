@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSelectorProject.Android", "ColorSelectorProject\ColorSelectorProject.Android\ColorSelectorProject.Android.csproj", "{F3CC9555-3813-4052-B3CB-F9C881DFEABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSelectorProject", "ColorSelectorProject\ColorSelectorProject\ColorSelectorProject.csproj", "{0C7C4C86-7535-4712-9C27-52C3D53F5F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CC9555-3813-4052-B3CB-F9C881DFEABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CC9555-3813-4052-B3CB-F9C881DFEABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CC9555-3813-4052-B3CB-F9C881DFEABB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F3CC9555-3813-4052-B3CB-F9C881DFEABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CC9555-3813-4052-B3CB-F9C881DFEABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CC9555-3813-4052-B3CB-F9C881DFEABB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0C7C4C86-7535-4712-9C27-52C3D53F5F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7C4C86-7535-4712-9C27-52C3D53F5F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7C4C86-7535-4712-9C27-52C3D53F5F37}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0C7C4C86-7535-4712-9C27-52C3D53F5F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7C4C86-7535-4712-9C27-52C3D53F5F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7C4C86-7535-4712-9C27-52C3D53F5F37}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32ACE91B-CAE3-489A-BD63-C3BC08A145BC}
+	EndGlobalSection
+EndGlobal
